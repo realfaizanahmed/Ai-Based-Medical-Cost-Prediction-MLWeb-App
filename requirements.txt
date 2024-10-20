@@ -55,7 +55,7 @@ tenacity==8.5.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
-tensorflow-intel==2.17.0
+tensorflow-intel==2.12.0
 termcolor==2.4.0
 threadpoolctl==3.5.0
 toml==0.10.2
@@ -67,4 +67,3 @@ watchdog==4.0.2
 Werkzeug==3.0.3
 wheel==0.44.0
 wrapt==1.16.0
-tensorflow-intel==2.12.0
